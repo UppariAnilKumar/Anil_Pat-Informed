@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-03T00:36:26 IST" name="ParallelSuite" finished-at="2025-07-03T00:36:36 IST" duration-ms="9746">
+    <groups>
+    </groups>
+    <test started-at="2025-07-03T00:36:26 IST" name="ChromeTests" finished-at="2025-07-03T00:36:36 IST" duration-ms="9746">
+      <class name="task.Task1">
+        <test-method is-config="true" signature="BC()[pri:0, instance:task.Task1@e7edb54]" started-at="2025-07-03T00:36:26 IST" name="BC" finished-at="2025-07-03T00:36:32 IST" duration-ms="6016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method signature="testCase1()[pri:0, instance:task.Task1@e7edb54]" started-at="2025-07-03T00:36:32 IST" name="testCase1" finished-at="2025-07-03T00:36:36 IST" duration-ms="3612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:task.Task1@e7edb54]" started-at="2025-07-03T00:36:36 IST" name="closeBrowser" finished-at="2025-07-03T00:36:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- task.Task1 -->
+      <class name="task.Task3">
+        <test-method is-config="true" signature="BC()[pri:0, instance:task.Task3@5fd4f8f5]" started-at="2025-07-03T00:36:26 IST" name="BC" finished-at="2025-07-03T00:36:33 IST" duration-ms="6614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method signature="testCase3()[pri:0, instance:task.Task3@5fd4f8f5]" started-at="2025-07-03T00:36:33 IST" name="testCase3" finished-at="2025-07-03T00:36:36 IST" duration-ms="3091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:task.Task3@5fd4f8f5]" started-at="2025-07-03T00:36:36 IST" name="closeBrowser" finished-at="2025-07-03T00:36:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- task.Task3 -->
+      <class name="task.Task2">
+        <test-method is-config="true" signature="BC()[pri:0, instance:task.Task2@72cde7cc]" started-at="2025-07-03T00:36:26 IST" name="BC" finished-at="2025-07-03T00:36:32 IST" duration-ms="6006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method signature="testCase2()[pri:0, instance:task.Task2@72cde7cc]" started-at="2025-07-03T00:36:32 IST" name="testCase2" finished-at="2025-07-03T00:36:35 IST" duration-ms="2974" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <div class="title cropper">...</div> is not clickable at point (823, 244). Other element would receive the click: <div _ngcontent-ng-c3123583791="" class="scroller">...</div>
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d1a10314a28484cd8bd2f3912f19694, clickElement {id=f.A573AD7806A315254173BC88CDA25366.d.D282FA09445E1C637FCC3850A2D1A349.e.288}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55112/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d1a10314a28484cd8bd2f3912f19694)] -> xpath: (//ul[@class='associations flex column']//div[contains(text(),'')])[1]]
+Session ID: 1d1a10314a28484cd8bd2f3912f19694]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="title cropper">...</div> is not clickable at point (823, 244). Other element would receive the click: <div _ngcontent-ng-c3123583791="" class="scroller">...</div>
+  (Session info: chrome=137.0.7151.120)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d1a10314a28484cd8bd2f3912f19694, clickElement {id=f.A573AD7806A315254173BC88CDA25366.d.D282FA09445E1C637FCC3850A2D1A349.e.288}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55112/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d1a10314a28484cd8bd2f3912f19694)] -> xpath: (//ul[@class='associations flex column']//div[contains(text(),'')])[1]]
+Session ID: 1d1a10314a28484cd8bd2f3912f19694
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at task.Task2.testCase2(Task2.java:71)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:task.Task2@72cde7cc]" started-at="2025-07-03T00:36:36 IST" name="closeBrowser" finished-at="2025-07-03T00:36:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- task.Task2 -->
+    </test> <!-- ChromeTests -->
+  </suite> <!-- ParallelSuite -->
+</testng-results>

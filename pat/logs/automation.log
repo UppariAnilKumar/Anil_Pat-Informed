@@ -1,0 +1,544 @@
+2025-06-26 18:33:59 INFO  Task:25 -  driver launced in Incognito mode 
+2025-06-26 18:34:01 INFO  Task:30 - naviagated to patinformed website 
+2025-06-26 18:34:46 INFO  Task:25 -  driver launced in Incognito mode 
+2025-06-26 18:34:48 INFO  Task:30 - naviagated to patinformed website 
+2025-06-26 18:42:21 INFO  Task:25 -  driver launced in Incognito mode 
+2025-06-26 18:42:23 INFO  Task:30 - naviagated to patinformed website 
+2025-06-26 18:45:28 INFO  Task:25 -  driver launced in Incognito mode 
+2025-06-26 18:45:29 INFO  Task:30 - naviagated to patinformed website 
+2025-06-26 18:57:54 INFO  Task:27 -  driver launced in Incognito mode 
+2025-06-26 18:57:56 INFO  Task:32 - naviagated to patinformed website 
+2025-06-26 18:58:49 INFO  Task:27 -  driver launced in Incognito mode 
+2025-06-26 18:58:51 INFO  Task:32 - naviagated to patinformed website 
+2025-06-26 19:03:37 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-26 19:03:39 INFO  Task:33 - naviagated to patinformed website 
+2025-06-26 19:13:31 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-26 19:13:33 INFO  Task:33 - naviagated to patinformed website 
+2025-06-26 19:26:29 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-26 19:26:31 INFO  Task:33 - naviagated to patinformed website 
+2025-06-26 20:25:21 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-26 20:25:23 INFO  Task:33 - naviagated to patinformed website 
+2025-06-26 20:26:37 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-26 20:26:39 INFO  Task:33 - naviagated to patinformed website 
+2025-06-26 23:17:18 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:17:20 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:17:30 ERROR Task:55 - Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'I have read and agree to the terms')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55112/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 77a22a8ccca949abf28c952da54c4f4d has arrived 
+2025-06-26 23:18:53 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:18:55 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:19:05 ERROR Task:55 - Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'I have read and agree to the terms')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55202}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55202/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ed6fcc72f8fa7f3017f96e77e93c895b has arrived 
+2025-06-26 23:24:02 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:24:04 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:24:14 ERROR Task:55 - Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'I have read and agree to the terms')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55405}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55405/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b7b9299bcec5a3383e83c570d8838d2 has arrived 
+2025-06-26 23:25:48 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:25:50 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:26:00 ERROR Task:55 - Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'I have read and agree to the terms')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55494}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55494/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 99deddc8419cd809ad3c0a0ccb508f9a has arrived 
+2025-06-26 23:29:31 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:29:33 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:29:44 ERROR Task:55 - Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'I have read and agree to the terms')] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\saira\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55766}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55766/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb720f9cf5ac2554d81b8268697a8584 has arrived 
+2025-06-26 23:32:16 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:32:18 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:35:13 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:35:15 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:37:33 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-26 23:37:36 INFO  Task:35 - naviagated to patinformed website 
+2025-06-26 23:37:36 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 10:43:33 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 10:43:35 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 10:43:35 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 10:50:41 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 10:50:43 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 10:50:43 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 10:53:50 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 10:53:53 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 10:53:53 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 10:55:26 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 10:55:28 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 10:55:28 INFO  Task:44 - landed in disclaimer page  
+2025-06-27 11:03:48 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-27 11:03:50 INFO  Task:33 - naviagated to patinformed website 
+2025-06-27 11:03:50 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 11:04:27 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-27 11:04:29 INFO  Task:33 - naviagated to patinformed website 
+2025-06-27 11:04:29 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 11:05:14 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-27 11:05:16 INFO  Task:33 - naviagated to patinformed website 
+2025-06-27 11:05:16 INFO  Task:43 - landed in disclaimer page  
+2025-06-27 11:06:49 INFO  Task:28 -  driver launced in Incognito mode 
+2025-06-27 11:06:51 INFO  Task:33 - naviagated to patinformed website 
+2025-06-27 11:06:51 INFO  Task:44 - landed in disclaimer page  
+2025-06-27 11:09:35 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:09:37 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:09:37 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:11:49 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:11:51 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:11:51 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:15:47 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:15:49 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:15:49 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:17:35 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:17:37 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:17:37 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:23:42 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:23:44 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:23:44 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:28:19 INFO  Task:29 -  driver launced in Incognito mode 
+2025-06-27 11:28:21 INFO  Task:34 - naviagated to patinformed website 
+2025-06-27 11:28:21 INFO  Task:47 - landed in disclaimer page  
+2025-06-27 11:35:15 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 11:35:17 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 11:35:17 INFO  Task:48 - landed in disclaimer page  
+2025-06-27 11:36:03 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 11:36:05 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 11:36:05 INFO  Task:48 - landed in disclaimer page  
+2025-06-27 11:39:25 INFO  Task:30 -  driver launced in Incognito mode 
+2025-06-27 11:39:27 INFO  Task:35 - naviagated to patinformed website 
+2025-06-27 11:39:27 INFO  Task:48 - landed in disclaimer page  
+2025-06-27 11:43:23 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 11:43:25 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 11:43:25 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 11:44:40 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 11:44:42 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 11:44:42 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 11:51:47 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 11:51:49 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 11:51:49 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 11:57:47 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 11:57:49 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 11:57:50 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 12:01:10 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 12:01:12 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 12:01:12 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 12:05:24 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 12:05:26 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 12:05:26 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 12:07:58 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 12:08:00 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 12:08:00 INFO  Task:51 - landed in disclaimer page  
+2025-06-27 12:10:41 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-27 12:10:43 INFO  Task:38 - naviagated to patinformed website 
+2025-06-27 12:10:43 INFO  Task:51 - landed in disclaimer page  
+2025-06-28 11:25:35 INFO  Task:33 -  driver launced in Incognito mode 
+2025-06-28 11:25:39 INFO  Task:38 - naviagated to patinformed website 
+2025-06-28 11:25:39 INFO  Task:51 - landed in disclaimer page  
+2025-06-28 12:33:32 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 12:33:36 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 12:33:36 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 12:37:50 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 12:37:54 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 12:37:54 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 12:39:59 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 12:40:02 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 12:40:03 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 12:43:35 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 12:43:38 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 12:43:38 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 12:47:51 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 12:47:53 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 12:47:53 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 13:09:43 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 13:09:46 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 13:09:46 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 14:37:02 INFO  Task:39 -  driver launced in Incognito mode 
+2025-06-28 14:37:05 INFO  Task:44 - naviagated to patinformed website 
+2025-06-28 14:37:05 INFO  Task:57 - landed in disclaimer page  
+2025-06-28 16:22:37 INFO  Task:37 -  driver launced in Incognito mode 
+2025-06-28 16:22:40 INFO  Task:42 - naviagated to patinformed website 
+2025-06-28 16:22:41 INFO  Task:55 - landed in disclaimer page  
+2025-06-28 17:44:36 INFO  BaseClass:22 -  driver launced in Incognito mode 
+2025-06-28 17:44:40 INFO  BaseClass:27 - naviagated to patinformed website 
+2025-06-28 17:44:40 INFO  Task3:45 - landed in disclaimer page  
+2025-06-28 17:44:43 INFO  BaseClass:33 -  closing whole browser 
+2025-06-28 19:47:43 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:47:45 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:47:46 INFO  Task1:41 - landed in disclaimer page  
+2025-06-28 19:47:49 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:47:50 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:47:52 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:47:52 INFO  Task3:43 - landed in disclaimer page  
+2025-06-28 19:47:55 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:47:57 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:47:59 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:47:59 INFO  Task2:43 - landed in disclaimer page  
+2025-06-28 19:48:02 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:52:00 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:52:00 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:52:00 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:52:03 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:52:04 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:52:04 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:52:04 INFO  Task1:41 - landed in disclaimer page  
+2025-06-28 19:52:04 INFO  Task3:43 - landed in disclaimer page  
+2025-06-28 19:52:04 INFO  Task2:43 - landed in disclaimer page  
+2025-06-28 19:52:16 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:52:16 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:52:16 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:52:58 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:52:58 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:52:58 INFO  BaseClass:26 -  driver launced in Incognito mode 
+2025-06-28 19:53:01 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:53:01 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:53:01 INFO  BaseClass:32 - naviagated to patinformed website 
+2025-06-28 19:53:02 INFO  Task2:43 - landed in disclaimer page  
+2025-06-28 19:53:02 INFO  Task1:41 - landed in disclaimer page  
+2025-06-28 19:53:02 INFO  Task3:43 - landed in disclaimer page  
+2025-06-28 19:53:14 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:53:14 INFO  BaseClass:40 -  closing whole browser 
+2025-06-28 19:53:14 INFO  BaseClass:40 -  closing whole browser 
+2025-07-02 19:46:34 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:34 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:36 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:36 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:36 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 19:46:37 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:46:38 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:40 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:46:41 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:41 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:46:42 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:44 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:44 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:45 INFO  Task2:43 - landed in disclaimer page  
+2025-07-02 19:46:46 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:47 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:46:47 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:46:49 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:46:51 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:46:52 INFO  Task3:43 - landed in disclaimer page  
+2025-07-02 19:46:54 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:41 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:48:41 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:48:43 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:48:44 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:48:44 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 19:48:44 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:46 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:48:47 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:48 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:48:49 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:49 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:48:51 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:48:52 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:48:52 INFO  Task2:43 - landed in disclaimer page  
+2025-07-02 19:48:54 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:48:54 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:55 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 19:48:57 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 19:49:00 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 19:49:00 INFO  Task3:43 - landed in disclaimer page  
+2025-07-02 19:49:03 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:05:10 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:05:10 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:05:12 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:05:12 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:05:13 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:05:13 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:05:15 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:05:16 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:05:17 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:05:17 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:05:58 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:06:00 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:06:00 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:06:02 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:06:04 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:06:06 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:06:07 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:06:08 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:06:10 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:06:11 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:07:03 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:07:05 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:07:06 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:07:08 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:07:10 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:07:13 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:07:13 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:07:15 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:07:17 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:07:18 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:13:12 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:13:14 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:13:14 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:13:16 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:13:17 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:13:19 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:13:20 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:13:21 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:13:23 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:13:23 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:21:43 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:21:45 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:21:45 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:21:47 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:21:49 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:21:50 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:21:51 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:21:52 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:21:54 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:21:55 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:23:27 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:23:29 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:23:29 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:23:32 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:23:33 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:23:35 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:23:36 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:23:37 INFO  BaseClass:71 -  driver launced in Incognito mode 
+2025-07-02 20:23:39 INFO  BaseClass:78 - naviagated to patinformed website 
+2025-07-02 20:23:39 INFO  BaseClass:92 -  closing whole browser 
+2025-07-02 20:39:07 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:39:10 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:39:10 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:39:12 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:39:13 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:39:15 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:39:15 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:39:16 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:39:18 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:39:18 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:40:23 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:40:25 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:40:25 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:40:28 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:40:28 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:40:30 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:40:30 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:40:31 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:40:33 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:40:33 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:41:57 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:41:57 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:41:59 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:41:59 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:41:59 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:42:00 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:42:00 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:42:02 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:42:02 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:42:02 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:42:03 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:42:04 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:42:04 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:42:04 INFO  Task2:56 - landed in disclaimer page  
+2025-07-02 20:42:06 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:42:06 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:42:08 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:42:08 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:42:10 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:42:10 INFO  Task3:56 - landed in disclaimer page  
+2025-07-02 20:42:12 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:47:40 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:47:42 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:47:42 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:47:44 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:47:45 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:47:46 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:47:46 INFO  Task2:56 - landed in disclaimer page  
+2025-07-02 20:47:49 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:47:49 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:47:51 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:47:51 INFO  Task3:56 - landed in disclaimer page  
+2025-07-02 20:47:53 INFO  BaseClass:101 -  closing whole browser 
+2025-07-02 20:51:22 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:51:24 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:51:24 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:51:26 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 20:51:26 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:51:30 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:51:30 INFO  Task2:56 - landed in disclaimer page  
+2025-07-02 20:51:33 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 20:51:33 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:51:35 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:51:35 INFO  Task3:56 - landed in disclaimer page  
+2025-07-02 20:51:37 ERROR PatentsDetailsRespectedCountries:107 - Index 1 out of bounds for length 1
+2025-07-02 20:51:37 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 20:54:59 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:55:00 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:55:01 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 20:55:03 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 20:55:03 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:55:05 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:55:05 INFO  Task2:56 - landed in disclaimer page  
+2025-07-02 20:55:08 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 20:55:08 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 20:55:10 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 20:55:10 INFO  Task3:56 - landed in disclaimer page  
+2025-07-02 20:55:12 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 21:08:53 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 21:08:54 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 21:08:55 INFO  Task3:56 - landed in disclaimer page  
+2025-07-02 21:08:57 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 21:10:51 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 21:10:53 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 21:10:53 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 21:10:55 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 21:10:55 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 21:10:57 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 21:10:57 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 21:10:58 INFO  BaseClass:80 -  driver launced in Incognito mode 
+2025-07-02 21:11:00 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-02 21:11:00 INFO  BaseClass:101 -    browser window closed 
+2025-07-02 22:51:02 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 22:51:02 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 22:51:03 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 22:51:04 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 22:51:05 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 22:51:05 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 22:51:06 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 22:51:06 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 22:51:06 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 22:51:08 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 23:07:37 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:07:40 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:07:40 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 23:07:42 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:07:43 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:07:45 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:07:45 INFO  Task2:57 - landed in disclaimer page  
+2025-07-02 23:07:47 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:07:48 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:07:50 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:07:50 INFO  Task3:57 - landed in disclaimer page  
+2025-07-02 23:07:52 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:09:41 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:09:41 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:09:41 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:09:43 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:09:43 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:09:43 INFO  Task1:56 - landed in disclaimer page  
+2025-07-02 23:09:43 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:09:43 INFO  BaseClass:88 - naviagated to patinformed website 
+2025-07-02 23:09:44 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:09:46 INFO  BaseClass:104 -    browser window closed 
+2025-07-02 23:52:22 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:52:24 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-02 23:52:24 INFO  Task1:42 - Landed in disclaimer page
+2025-07-02 23:52:27 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 23:52:28 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:52:30 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-02 23:52:31 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 23:52:31 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:52:33 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-02 23:52:34 INFO  BaseClass:102 -    browser window closed 
+2025-07-02 23:59:54 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-02 23:59:56 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-02 23:59:57 INFO  Task1:42 - Landed in disclaimer page
+2025-07-02 23:59:59 INFO  BaseClass:102 -    browser window closed 
+2025-07-03 00:00:00 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-03 00:00:02 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-03 00:00:02 INFO  BaseClass:102 -    browser window closed 
+2025-07-03 00:00:03 INFO  BaseClass:81 -  driver launced in Incognito mode 
+2025-07-03 00:00:05 INFO  BaseClass:86 - naviagated to patinformed website 
+2025-07-03 00:00:05 INFO  BaseClass:102 -    browser window closed 
+2025-07-03 00:05:27 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:05:29 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:05:29 INFO  Task1:42 - Landed in disclaimer page
+2025-07-03 00:05:32 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:05:33 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:05:35 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:05:35 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:05:36 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:05:38 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:05:38 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:15:07 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:15:09 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:15:09 INFO  Task1:42 - Landed in disclaimer page
+2025-07-03 00:15:12 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:15:13 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:15:15 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:15:15 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:15:16 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:15:18 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:15:18 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:23:35 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:23:38 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:23:38 INFO  Task1:42 - Landed in disclaimer page
+2025-07-03 00:23:41 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:23:42 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:23:44 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:23:44 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:23:45 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:23:47 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:23:47 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:27:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:27:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:27:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:27:32 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:27:32 INFO  Task2:42 - Landed in disclaimer page
+2025-07-03 00:27:32 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:27:32 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:27:32 INFO  Task3:42 - Landed in disclaimer page
+2025-07-03 00:27:33 INFO  Task1:42 - Landed in disclaimer page
+2025-07-03 00:27:35 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:27:35 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:27:36 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:30:34 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:30:34 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:30:34 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:30:36 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:30:36 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:30:36 INFO  Task1:56 - landed in disclaimer page  
+2025-07-03 00:30:36 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:30:37 INFO  Task3:57 - landed in disclaimer page  
+2025-07-03 00:30:37 INFO  Task2:57 - landed in disclaimer page  
+2025-07-03 00:30:39 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:30:39 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:30:40 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:48 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:48 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:48 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:50 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:50 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:50 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:50 INFO  Task1:56 - landed in disclaimer page  
+2025-07-03 00:32:50 INFO  Task3:57 - landed in disclaimer page  
+2025-07-03 00:32:50 INFO  Task2:57 - landed in disclaimer page  
+2025-07-03 00:32:54 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:54 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:54 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:56 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:56 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:56 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:32:58 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:58 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:58 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:32:59 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:59 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:32:59 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:36:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:36:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:36:30 INFO  BaseClass:82 -  driver launced in Incognito mode 
+2025-07-03 00:36:32 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:36:32 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:36:33 INFO  Task2:57 - landed in disclaimer page  
+2025-07-03 00:36:33 INFO  Task1:56 - landed in disclaimer page  
+2025-07-03 00:36:33 INFO  BaseClass:87 - naviagated to patinformed website 
+2025-07-03 00:36:33 INFO  Task3:57 - landed in disclaimer page  
+2025-07-03 00:36:36 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:36:36 INFO  BaseClass:103 -    browser window closed 
+2025-07-03 00:36:36 INFO  BaseClass:103 -    browser window closed 

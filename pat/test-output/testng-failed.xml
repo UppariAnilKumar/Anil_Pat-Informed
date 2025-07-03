@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="classes" name="Failed suite [ParallelSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="classes" name="ChromeTests(failed)">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="task.Task2">
+        <methods>
+          <include name="BC"/>
+          <include name="testCase2"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- task.Task2 -->
+    </classes>
+  </test> <!-- ChromeTests(failed) -->
+</suite> <!-- Failed suite [ParallelSuite] -->
