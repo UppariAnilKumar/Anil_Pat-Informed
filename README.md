@@ -1,4 +1,6 @@
+ # Clone project
 
+git clone  https://github.com/UppariAnilKumar/Anil_Pat-Informed/tree/master/pat
 # Prerequisites
 
 - Java 11 or later
